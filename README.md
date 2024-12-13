@@ -23,6 +23,9 @@ The objective of this project was to analyze datasets related to user behavior, 
 ## How to Use
 1. Open `Assignment-work.xlsx` to explore interactive visualizations.
 2. Refer to `Report.pdf` for a detailed explanation of the findings and recommendations.
+3. 
+
+![Dashboard Screenshot](Screenshot 2024-12-13 195954.png)
 
 ## Author
 Yashwanth
