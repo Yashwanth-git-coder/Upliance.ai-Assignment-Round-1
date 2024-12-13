@@ -25,7 +25,7 @@ The objective of this project was to analyze datasets related to user behavior, 
 2. Refer to `Report.pdf` for a detailed explanation of the findings and recommendations.
 3. 
 
-![Dashboard Screenshot](Screenshot 2024-12-13 195954.png)
+![Dashboard Screenshot]([Screenshot 2024-12-13 195954.png](https://github.com/Yashwanth-git-coder/Upliance.ai-Assignment-Round-1/blob/main/Screenshot%202024-12-13%20195954.png))
 
 ## Author
 Yashwanth
